@@ -1,5 +1,5 @@
 
-/**Creating data set */
+
 
 import readlineSync from "readline-sync";
 // const kuler = require("kuler");
@@ -15,7 +15,7 @@ console.log(kuler(`hello ${userName} welcome to quizify `, "#dc2636"))
 
 
 let score =0;
-
+/**Creating data set */
 const database = {
   // category:{
   //   name :"javascript",
